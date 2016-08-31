@@ -3,9 +3,6 @@
 
 #include "Arduino.h"
 
-#define MAX_THROTTLE 255 //最大油门 100~255
-#define MAX_STEERING 510 //最大转向 100~511
-
 #define CHAN_LEFT 0
 #define CHAN_RIGHT 1
 
